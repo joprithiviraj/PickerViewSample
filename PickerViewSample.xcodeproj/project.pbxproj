@@ -407,6 +407,7 @@
 				D4CAC5501B54E6F600D07B2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D4CAC5511B54E6F600D07B2C /* Build configuration list for PBXNativeTarget "PickerViewSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				D4CAC5531B54E6F600D07B2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
